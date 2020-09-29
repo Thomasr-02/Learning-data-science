@@ -2,7 +2,7 @@
 
 I'm Thomas Ribeiro, this repository is for data science related projects and activities.
 
-- <img width="25" src="https://blog.synchro.com.br/wp-content/themes/synchro-blog/resources/images/ico-logo-synchro-w.svg"> Developer Web at [Synchro Soulções Fiscais](synchro.com.br/).
+- <img width="25" src="https://blog.synchro.com.br/wp-content/themes/synchro-blog/resources/images/ico-logo-synchro-w.svg"> Developer Web at [Synchro Soulções Fiscais](http://synchro.com.br/).
 
 - <img width="25" src="https://www.ufpb.br/ufpb/image-base/logo-ufpb-dark.png"> Graduating in Data Science and Artificial Intelligence by UFPB
 
